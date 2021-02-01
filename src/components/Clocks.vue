@@ -1,0 +1,23 @@
+<template>
+  <div class="whole-page vertical-middle">
+    <div class="vertical-middle__child">
+
+      <div class="clock">
+        <ul class="clock__marks"></ul>
+        <div class="clock__hands">
+          <div class="clock__hand clock__hand--hour"></div>
+          <div class="clock__hand clock__hand--minute"></div>
+          <div class="clock__hand clock__hand--second"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+}
+</script>
+
+<style src="@/assets/clocks.scss" scoped></style>
