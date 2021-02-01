@@ -1,6 +1,6 @@
 *{ backface-visibility: hidden; }
 
-.whole-page{ background: radial-gradient(circle, #FFFFFF 0%, #8E8E8E 17%, #202020 100%); }
+.bg-gradient{ background: radial-gradient(circle, #FFFFFF 0%, #8E8E8E 17%, #202020 100%); }
 
 .vertical-middle{ display: table; width: 100%; height: 100%; position: absolute;
   &__child{ display: table-cell; vertical-align: middle; text-align: center; }

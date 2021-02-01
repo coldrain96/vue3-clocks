@@ -1,5 +1,5 @@
 <template>
-  <div class="whole-page vertical-middle">
+  <div class="vertical-middle bg-gradient">
     <div class="vertical-middle__child">
 
       <div class="clock">
