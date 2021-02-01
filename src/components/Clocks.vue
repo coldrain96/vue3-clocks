@@ -20,4 +20,4 @@ export default {
 }
 </script>
 
-<style src="@/assets/clocks.scss" scoped></style>
+<style src="@/assets/clocks.scss" lang="scss" scoped></style>
